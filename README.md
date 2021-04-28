@@ -6,4 +6,5 @@
 - [4.ELB](./4.elb.md)
 - [5.AutoScaling](./5.autoscaling.md)
 - [6.IAM](./6.iam.md)
+- [7.S3](./7.s3.md)
 
